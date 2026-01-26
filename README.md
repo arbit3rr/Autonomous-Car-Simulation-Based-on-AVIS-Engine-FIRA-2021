@@ -57,7 +57,7 @@ In this competition, our team was able to achieve four ranks in different catego
 ### Contact us
 Feel free to contact us via email or connect with us on linkedin.
 
-- Abbas Omidi --- [Linkedin](https://www.linkedin.com/in/abbasomidi77/), [Github](https://github.com/abbasomidi77), [Email](mailto:abbasomidi77@gmail.com)
+- Omid Omidi --- [Linkedin](https://www.linkedin.com/in/omidomidi77/), [Github](https://github.com/omidomidi77), [Email](mailto:abbasomidi77@gmail.com)
 - Milad Soltany --- [Linkedin](https://www.linkedin.com/in/milad-soltany/), [Github](https://github.com/miladsoltany) , [Email](mailto:soltany.m.99@gmail.com)
 - Amirhossein Kazerooni ---  [Linkedin](https://www.linkedin.com/in/amirhossein477/), [Github](https://github.com/amirhossein-kz), [Email](mailto:Amirhossein477@gmail.com )
 - Amirhossein Heydarian ---  [Linkedin](https://www.linkedin.com/in/amirhosseinh77/), [Github](https://github.com/amirhosseinh77), [Email](mailto:amirhossein4633@gmail.com )
